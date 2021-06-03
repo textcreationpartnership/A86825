@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the loyal dissenters to his Majesty: for the speedy calling of a parliament, to redress the greivances of the subjects</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86825</idno><idno type="EEBO-CITATION">99895407</idno>
+  <idno type="VID">152952</idno>
+  <idno type="EEBO-PROQUEST">2240944773</idno>
+  
+            <idno type="STC">Wing H3553</idno>
+            <idno type="STC">ESTC R215426</idno>
+            <idno type="PROQUEST">99895407</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895407e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152952)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2336:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the loyal dissenters to his Majesty: for the speedy calling of a parliament, to redress the greivances of the subjects</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Dean,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In fact a Catholic tract satirizing the dissenters: "For we want and desire just such a Parliament, as was call'd in forty one --- or that at Oxford, last to secure and preserve the subjects." Includes references to Titus Oates, and the Popish plot: "And that you would please to let our plots be laid upon the Papists, and the real conspirators be pardon'd, by an act of indemnitie,..." as well as to Roger L'Estrange and Judge Jefferies, and others.</note>
+                  <note>Reproduction of original in the Society of Antiquaries, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jeffreys, George Jeffreys, --  Baron, 1644 or 5-1689 --  Early works to 1800.</term>
+               <term type="personal_name">L'Estrange, Roger, --  Sir, 1616-1704 --  Early works to 1800.</term>
+               <term type="topical_term">Popish Plot, 1678 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:152952:1"/>
+            <head>The Humble Petition OF THE <hi>Loyal Dissenters</hi> TO HIS MAJESTY: For the speedy calling of a Parliament, to Redress the Greivances of the subjects.</head>
+            <opener>Sheweth</opener>
+            <p>THat whereas your humble Petitioners the Loyal <hi>Dissenters (Pa<g ref="char:EOLhyphen"/>pists Exempted)</hi> of these three Kingdoms, have, for these seven years last past: mightily laboured to settle a thorrow Reformati<g ref="char:EOLhyphen"/>on both in Church and State, which ever since the Dissolution of our last Parliament, have been in great Confusion and Disorder—which is greivous to the Subjects.</p>
+            <p>Therefore we humbly beseech your Majesty (immediately at our Re<g ref="char:EOLhyphen"/>ques<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) that you would be pleased to call a Parliament, that all our Grei<g ref="char:EOLhyphen"/>vances may be Redrest—<hi>Ʋix.</hi>
+            </p>
+            <p>That you will be pleased to let it be Enacted that all the Loyal <hi>Addres<g ref="char:EOLhyphen"/>sers</hi> may be detected as Traytors, and greivous to the Subjects—That all your Guards (except the Yeomen) may be disbanded, for they are grei<g ref="char:EOLhyphen"/>vous to the Subjects. That all the <hi>Bishops</hi> and <hi>Clergimen</hi> may be pull'd down, for they are greivous to the Subjects—That their Benefices may be devided amongst the Saints—<hi>Baxter, Lobb,</hi> and <hi>Farindon,</hi> and the rest of our Godly Party—to oblige and preserve the Subjects.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the <hi>Tower, Militia, Cinque-Ports,</hi> and <hi>Fleet,</hi> may be put into our ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>to preserve and secure the Subjects—That <hi>Barwick</hi> upon <hi>Tweed</hi> may be Demolished—to let in the <hi>Scotch Covenanters</hi> upon Occasion, to preserve the Subjects. And to let <hi>Oats</hi> have his ten pounds a Week to swear and preserve the Subjects. And that the Popish Lords in the <hi>Tower</hi> may be hang'd, right or wrong, for they are greivous to the Subjects— And that you would please to let our Plots be laid upon the <hi>Papists,</hi> and the Real Conspirators be pardon'd, by an Act of Indemnitie, to please and preserve the Subjects. And to let <hi>Pauls</hi> be made into a Garrison, for our partie, to preserve the Subjects.</p>
+            <p>And to let all the people be obliged to bring in their Bodkins, Rings, &amp; Whistles, for us to make Mony of, to preserve the Subjects. And to let the Estates of all the Nobility of the three Kingdoms that are not of our party, be divided amongst us, to preserve the Subjects: And that all Of<g ref="char:EOLhyphen"/>fices and Places of profit and trust be confer'd on our party (or on the <hi>Trimers</hi>) to preserve the Subjects.</p>
+            <p>Let; <hi>L'Estrange</hi> and all that write for <hi>King, Law,</hi> or <hi>Government</hi> may be
+<pb n="2" facs="tcp:152952:2"/>hang'd for they are greivous to, the Subjects. And to cause the Act of Queen <hi>Elizabeth</hi> against <hi>Phanaticks</hi> to be Repeal'd, for it is greivous to the Subjects.</p>
+            <p>Further to let it be enacted, that Laws both <hi>Temporal</hi> and <hi>Spiritual</hi>— that confine us to Obedience be abolished, for they are greivous to the Subjects.</p>
+            <p>And all that do not approve of this <hi>Petition</hi> be disinherited; their Estates and persons be exposed to our mercy, to preserve the Subjects. And that all the Loyal Nobility of the three Kingdoms, be reduced to follow <hi>Plow</hi> and <hi>Cart,</hi> that our Party, <hi>Coblers, Tinkers, Sweep,</hi> and <hi>Kennel-Rakers,</hi> may Ride in <hi>Coaches;</hi> to preserve the Subjects. And not to suffer any Laws to remain in force, that shall confine us to submit to any King, but, such as we shall think fit to set up, &amp; pull down at our pleasure, &amp; this to preserve the Subjects. And to let all <hi>Dissenters, Papists,</hi> (Exempted) that have Faith to beleive that there is such a thing as a God, have their Liberties, and Properties; to swear, commit <hi>Marthers, Theft, Perjury, Buggery, Rape,</hi> &amp;c.— And no body to dare to call 'em in question for't—for if there be a God, let him Rule the <hi>Stars,</hi> and they us, like other Animals to preserve the Subjects.</p>
+            <p>And to let it be Treason to sing a Loyal Song in the street, for its grei<g ref="char:EOLunhyphen"/>vous to the subjects. And to permit all the <hi>Meal-Tubs,</hi> from hence, to the four Corners of the World be searched for Sir <hi>William Waller</hi> to be <hi>Speaker,</hi> to preserve the Subjects.</p>
+            <p>Let those that have the sliest Pates and longest Spoons, or Broom-staff, be in full Sway and Possession of the Nation, to preserve the Subjects— And that it may be Treason to drink the Dukes Health; for its greivous to the Subjects. And to let Judge <hi>Jeffer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> be pull'd down, and one of our Party put in his place, to preserve the Subjects.</p>
+            <p>But all this we know, cannot be done without calling a Parliament— nor by that neither; unless you disable all the Loyal <hi>Addressers</hi> from ha<g ref="char:EOLhyphen"/>ving any <hi>Votes</hi> in choosing the Members—For we want and desire just such a Parliament, as was call'd in forty one—or that at <hi>Oxford,</hi> last to se<g ref="char:EOLhyphen"/>cure and preserve the Subjects.—</p>
+            <closer>
+               <hi>And your Humble</hi> Petitioners <hi>shall be bound to Pray,</hi> &amp;c.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON <hi>Printed for</hi> J. Dean. 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
